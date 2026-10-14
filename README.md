@@ -1,38 +1,31 @@
+<!-- HERO BANNER -->
+<p align="center">
+  <a href="https://www.savageldn.co.uk/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f1024,100:1b1d3a&text=Stuart%20Savage&fontColor=f6e7bf&fontSize=58&fontAlignY=38&desc=Operations%20%C3%97%20CX%20%C3%97%20Delivery%20Leadership&descAlignY=60&descSize=20" alt="Stuart Savage Banner" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.savageldn.co.uk/"><img alt="SavageLDN" src="https://img.shields.io/badge/SavageLDN-Leadership%20Hub-f6e7bf?style=for-the-badge&labelColor=111427&color=2a2e54"></a>
+  <a href="https://moonlit-doors.app/"><img alt="Moonlit Doors" src="https://img.shields.io/badge/Moonlit%20Doors-Hobby%20Experiment-f6e7bf?style=for-the-badge&labelColor=111427&color=2a2e54"></a>
+  <a href="https://www.moonlight-studio.uk/"><img alt="Moonlight Studio" src="https://img.shields.io/badge/Moonlight%20Studio-Professional%20Archive-f6e7bf?style=for-the-badge&labelColor=111427&color=2a2e54"></a>
+</p>
+
+---
+
 # Stuart Savage 👋
 
-**Operations & Customer Experience Leader** · *Kennington, London, UK*  
-[www.moonlight-studio.uk](https://www.moonlight-studio.uk/) · [stuart@savageldn.co.uk](mailto:stuart@savageldn.co.uk) · [LinkedIn](https://www.linkedin.com/in/stuartsavage)
+### **A customer-first leadership profile built on practical execution.**
+
+I help teams deliver **smoother operations**, **stronger customer experience**, and **reliable outcomes** by turning strategy into clear, accountable delivery.
+
+📍 Kennington, London, UK  
+✉️ [stuart@savageldn.co.uk](mailto:stuart@savageldn.co.uk) · 💼 [LinkedIn](https://www.linkedin.com/in/stuartsavage)
 
 ---
 
-### 🏛️ Historic Professional Archive
-A concise record of operations, customer experience, strategic delivery, and historic project work.
+## 🌐 Live Platforms
 
-![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fwww.moonlight-studio.uk&label=moonlight-studio.uk&style=flat-square&color=102845)
-![Hosting](https://img.shields.io/badge/Hosted%20On-Vercel-000000?style=flat-square&logo=vercel)
-![Stack](https://img.shields.io/badge/Stack-React%20%2F%20TanStack-61DAFB?style=flat-square&logo=react)
-
----
-
-### 🛠️ Core Leadership & Capabilities
-
-| Area | Focus & Competencies |
-| :--- | :--- |
-| **Operations Leadership** | Process optimisation, team alignment, governance, and calm decision-making under constraints. |
-| **Customer Experience (CX)** | Customer journey mapping, friction reduction, service standards, and stakeholder management. |
-| **Project Delivery** | Programme control, risk mitigation, end-to-end delivery, and structured handovers. |
-
----
-
-### ⚡ Technical Stack & Infrastructure
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-> **Archive Notice:** Former commercial landscaping entities closed in May 2026 (Savage Bespoke Ltd closed in 2023). This profile and linked site serve as an archive of professional experience only.
+- 🧭 **[savageldn.co.uk](https://www.savageldn.co.uk/)** — Leadership identity hub and broader professional narrative.
+- 🚪 **[moonlit-doors.app](https://moonlit-doors.app/)** — A personal **hobby experiment** exploring how a creative concept can evolve into a polished digital product.
+- 🌙 **[moonlight-studio.uk](https://www.moonlight-studio.uk/)** — Professional archive preserving historic work and foundational context.
